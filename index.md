@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: default
 ---
 <h1>সকল পাতা</h1>
 
